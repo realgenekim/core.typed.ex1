@@ -2,7 +2,7 @@
 
 Repo to reproduce error message:
 
-```
+
 Hi, Ambrose — 
 
 It was a pleasure meeting you last year at Clojure/Conj 2017 — congrats on the progress on your Ph.D.! 
@@ -107,4 +107,4 @@ Found errors
 Subprocess failed
 Genes-MacBook:xyz genekim$ 
 ```
-```
+
